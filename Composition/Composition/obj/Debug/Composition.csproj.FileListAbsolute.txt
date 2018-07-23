@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\bin\Debug\Composition.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\bin\Debug\Composition.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\bin\Debug\Composition.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\obj\Debug\Composition.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Composition\Composition\obj\Debug\Composition.pdb

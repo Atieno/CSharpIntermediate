@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.pdb

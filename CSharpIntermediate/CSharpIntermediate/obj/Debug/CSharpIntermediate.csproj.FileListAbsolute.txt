@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb

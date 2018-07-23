@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\C#Intermediate\Indexers\Indexers\obj\Debug\Indexers.pdb
