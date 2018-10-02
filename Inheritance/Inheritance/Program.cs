@@ -15,7 +15,7 @@ namespace Inheritance
         //Methods
         public void Copy()
         {
-            Console.WriteLine("Obkect copied to clipboard.");
+            Console.WriteLine("Object copied to clipboard.");
             Console.ReadLine();
 
         }
